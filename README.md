@@ -1,1 +1,1 @@
-# qr-code--omponent
+# QR Code Component
