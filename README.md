@@ -16,7 +16,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - [Acknowledgments](#acknowledgments)
 
 ## Overview
-<p> This NFT preview card is built using basic HTML and CSS. </p>
+<p> This QR Code Component is built using basic HTML and CSS. </p>
 
 ### The challenge
 
